@@ -11,7 +11,6 @@ Site vitrine professionnel créé dans le cadre de l'expérience professionnelle
 - **L'entreprise** : Présentation de DOD et des missions réalisées
 - **Articles** : 5 articles détaillés sur l'expérience
 - **Bilan** : Bilan complet du stage selon les consignes académiques
-- **Contact** : Informations de contact et formulaire
 
 ### Articles Détaillés
 1. **La Veille Concurrentielle : Un Enjeu Stratégique**
@@ -57,12 +56,6 @@ Site vitrine professionnel créé dans le cadre de l'expérience professionnelle
 - Icônes Font Awesome
 - Polices Google Fonts
 
-## Utilisation
-
-### Installation
-1. Téléchargez tous les fichiers dans un dossier
-2. Ouvrez `index.html` dans un navigateur web
-3. Le site est entièrement fonctionnel en local
 
 ### Personnalisation
 - Modifiez les informations personnelles dans `index.html`
@@ -77,22 +70,6 @@ Le site peut être déployé sur :
 - Vercel
 - Tout hébergeur web statique
 
-## Conformité Académique
-
-Ce site respecte les consignes de l'expérience professionnelle YNOV :
-
-### Structure Obligatoire
-- ✅ Page "À propos" avec CV et profil LinkedIn
-- ✅ Page "Contact"
-- ✅ Présentation de l'entreprise (DOD)
-- ✅ Articles sur l'expérience (5 articles minimum)
-- ✅ Bilan de stage obligatoire
-
-### Contenu Adapté au Niveau B2
-- ✅ Évolution en entreprise en capitalisant sur succès et échecs
-- ✅ Réalisation de tâches multiples avec outils appropriés
-- ✅ Démonstration de compétences techniques et transversales
-- ✅ Prise de recul et analyse professionnelle
 
 ## Technologies Utilisées
 
@@ -105,8 +82,3 @@ Ce site respecte les consignes de l'expérience professionnelle YNOV :
 ## Auteur
 
 Site créé dans le cadre de l'expérience professionnelle de stage chez DOD à Vertou, respectant les consignes académiques YNOV pour l'évaluation de l'expérience professionnelle en Bachelor 2.
-
----
-
-*Ce site vitrine démontre les compétences acquises lors du stage et sert de support pour les recherches de stage, d'alternance et d'emploi.*
-
